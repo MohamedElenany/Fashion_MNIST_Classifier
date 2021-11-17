@@ -1,1 +1,2 @@
 # MAIS202-Kaggle-Competition
+In order to reproduce results, please open the jupyter notebook and run all of the notebook from start to bottom. The notebook will automatically produce an output file with the predictions with the name of subm.csv. If you do not want to retrain the model and would prefer using the model I already trained, please follow the directions in the notebook to load the already trained model.
