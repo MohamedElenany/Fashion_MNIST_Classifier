@@ -1,4 +1,4 @@
-# MAIS202-Kaggle-Competition
+# Fashion MNIST Classifier
 
 ## About this project:
 The Fashion MNIST dataset, a cornerstone in the realm of computer vision and deep learning, has long been a touchstone for aspiring data scientists and machine learning enthusiasts. This competition, hosted by the McGill Artificial Intellegence Society on Kaggle, presents a unique opportunity to delve into the world of image classification and push the boundaries of what can be achieved with modern machine learning techniques.
