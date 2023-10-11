@@ -19,10 +19,10 @@ To reproduce the results, please open the Jupyter notebook and run the entire no
 To run the notebook, download both the notebook itself and the training/test files from the Kaggle competition (https://www.kaggle.com/c/mais202fall2021/). Ensure that all the files are placed in the same directory and then run the notebook from that location. For additional details, please refer to the project report provided above.
 
 ## Files uploaded:
-- **FashionMNIST_Notebook.ipynb:** This notebook contains all the code required to reproduce results, from loading and preprocessing data to training and tuning the model.
+- **FashionMNIST_Notebook.ipynb:** Contains all project code, including data preprocessing, model training, and result evaluation.
 
-- **subm.csv:** This CSV file is a sample of the output file reproduced by the model.
+- **subm.csv:** Contains a sample of the output file reproduced by the model.
 
-- **Final_report.pdf:** This document presents the comprehensive report for the project.
+- **Final_report.pdf:** Presents a comprehensive report of the project.
 
 
