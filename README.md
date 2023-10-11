@@ -16,4 +16,4 @@ Creating a classifier for the Fashion MNIST dataset on Kaggle is a stepping ston
 ## Reproducing Results:
 To reproduce the results, please open the Jupyter notebook and run the entire notebook from top to bottom. The notebook will automatically generate an output file with the predictions, named "subm.csv." If you prefer not to retrain the model and would rather use the pre-trained model, please follow the instructions provided in the notebook for loading the existing model.
 
-To run the notebook, download both the notebook itself and the training/test files from the Kaggle competition (https://www.kaggle.com/c/mais202fall2021/). Ensure that all the files are placed in the same directory and then run the notebook from that location.
+To run the notebook, download both the notebook itself and the training/test files from the Kaggle competition (https://www.kaggle.com/c/mais202fall2021/). Ensure that all the files are placed in the same directory and then run the notebook from that location. For additional details, please refer to the project report provided above.
